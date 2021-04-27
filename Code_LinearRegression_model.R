@@ -6,7 +6,7 @@ library(viridis);
 
 memory.limit(size = 24000)
 
-setwd("~/Documents/LLR/TEST_output/")
+setwd("~/Documents/LLR/TEST_output/")## output directory
 
 `%+%` = function(a, b) paste0(a, b)
 clipOut = function( x ) { write.table(x,"clipboard-16384", sep="\t", row.names=F, quote=F) }
