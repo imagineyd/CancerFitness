@@ -1,0 +1,7 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+CTNNB1	Tquery	2	18	10	47
+CTNNB1	nonTquery	23	590	191	1789
+ATRX	Tquery	0	13	1	29
+ATRX	nonTquery	35	171	139	470
+TP53	Tquery	6	26	6	41
+TP53	nonTquery	1855	1381	991	3079
