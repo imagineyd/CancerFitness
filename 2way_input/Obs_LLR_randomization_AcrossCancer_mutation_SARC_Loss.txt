@@ -1,0 +1,4 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+TP53	SARC	39	48	11	63
+ATRX	SARC	14	73	9	72
+RB1	SARC	16	110	2	54

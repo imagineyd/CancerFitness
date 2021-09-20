@@ -1,0 +1,5 @@
+Gene	Tissue	Mut_Gain	NoMut_Gain	Mut_WT	NoMut_WT
+IDH1	CHOL	1	5	4	22
+EPHA2	CHOL	0	0	0	5
+PBRM1	CHOL	0	1	0	6
+BAP1	CHOL	0	1	0	6

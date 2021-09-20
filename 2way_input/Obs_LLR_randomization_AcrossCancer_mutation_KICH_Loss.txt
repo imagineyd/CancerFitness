@@ -1,0 +1,3 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+TP53	KICH	16	32	4	12
+PTEN	KICH	6	40	0	15
