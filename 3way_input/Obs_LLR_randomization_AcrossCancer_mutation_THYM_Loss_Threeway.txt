@@ -1,0 +1,7 @@
+Gene	Tissue	Target	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+TP53_HRAS	THYM	WithSecondM	1	2	1	9
+TP53_HRAS	THYM	WOSecondM	3	12	2	96
+TP53_GTF2I	THYM	WithSecondM	1	1	1	1
+TP53_GTF2I	THYM	WOSecondM	3	13	2	104
+TP53_NRAS	THYM	WithSecondM	1	1	1	4
+TP53_NRAS	THYM	WOSecondM	3	13	2	101

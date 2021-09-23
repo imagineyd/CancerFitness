@@ -1,0 +1,5 @@
+Gene	Tissue	Target	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+TP53_ATRX	SARC	WithSecondM	7	6	2	6
+TP53_ATRX	SARC	WOSecondM	34	44	11	59
+TP53_RB1	SARC	WithSecondM	9	4	3	1
+TP53_RB1	SARC	WOSecondM	32	46	10	64
