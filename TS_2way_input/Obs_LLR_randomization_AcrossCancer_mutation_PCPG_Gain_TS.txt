@@ -1,0 +1,5 @@
+Gene	Tissue	Mut_Gain	NoMut_Gain	Mut_WT	NoMut_WT
+HRAS	Tquery	3	3	12	84
+HRAS	nonTquery	15	189	61	1708
+NF1	Tquery	0	4	1	111
+NF1	nonTquery	37	533	84	1638

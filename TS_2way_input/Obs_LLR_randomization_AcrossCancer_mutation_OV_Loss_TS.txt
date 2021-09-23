@@ -1,0 +1,13 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+BRCA1	Tquery	11	368	2	79
+BRCA1	nonTquery	10	265	7	391
+TP53	Tquery	244	123	46	34
+TP53	nonTquery	1617	1284	951	3086
+NRAS	Tquery	1	84	4	258
+NRAS	nonTquery	21	518	122	2048
+RB1	Tquery	5	270	6	115
+RB1	nonTquery	147	1701	73	1959
+NF1	Tquery	22	359	0	60
+NF1	nonTquery	83	481	85	1689
+KRAS	Tquery	0	44	2	186
+KRAS	nonTquery	53	465	307	2986

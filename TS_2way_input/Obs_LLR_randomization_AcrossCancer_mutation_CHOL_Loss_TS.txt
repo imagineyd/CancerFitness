@@ -1,0 +1,9 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+BAP1	Tquery	6	21	0	6
+BAP1	nonTquery	79	523	15	542
+IDH1	Tquery	0	2	4	22
+IDH1	nonTquery	23	124	387	1306
+EPHA2	Tquery	4	23	0	5
+EPHA2	nonTquery	3	85	14	350
+PBRM1	Tquery	6	21	0	6
+PBRM1	nonTquery	140	350	15	326

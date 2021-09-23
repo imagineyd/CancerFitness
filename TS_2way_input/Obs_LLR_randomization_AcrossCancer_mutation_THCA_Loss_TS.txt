@@ -1,0 +1,15 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+DNMT3A	Tquery	0	10	4	474
+DNMT3A	nonTquery	0	0	9	177
+NRAS	Tquery	0	3	37	446
+NRAS	nonTquery	22	599	89	1860
+HRAS	Tquery	0	8	15	460
+HRAS	nonTquery	9	750	58	1332
+AKT1	Tquery	0	1	5	472
+AKT1	nonTquery	1	354	29	1266
+BRAF	Tquery	0	1	280	184
+BRAF	nonTquery	3	71	59	735
+KRAS	Tquery	0	0	4	472
+KRAS	nonTquery	53	509	305	2700
+EIF1AX	Tquery	0	3	7	471
+EIF1AX	nonTquery	0	12	10	48

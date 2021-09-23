@@ -1,0 +1,9 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+TP53	Tquery	4	7	0	34
+TP53	nonTquery	1857	1400	997	3086
+HLA-B	Tquery	1	3	1	33
+HLA-B	nonTquery	2	116	22	481
+KMT2D	Tquery	1	1	9	26
+KMT2D	nonTquery	31	221	211	1336
+HIST1H1E	Tquery	0	3	4	34
+HIST1H1E	nonTquery	0	14	1	198

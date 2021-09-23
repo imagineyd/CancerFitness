@@ -1,0 +1,5 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+HRAS	Tquery	0	53	12	84
+HRAS	nonTquery	9	705	61	1708
+NF1	Tquery	14	24	1	111
+NF1	nonTquery	91	816	84	1638

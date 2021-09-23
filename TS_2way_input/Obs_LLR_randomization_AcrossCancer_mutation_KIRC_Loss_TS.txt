@@ -1,0 +1,15 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+TP53	Tquery	4	47	6	424
+TP53	nonTquery	1857	1360	991	2696
+PIK3CA	Tquery	1	55	3	361
+PIK3CA	nonTquery	33	324	541	2836
+ATM	Tquery	2	25	11	437
+ATM	nonTquery	30	272	69	647
+PTEN	Tquery	7	81	5	398
+PTEN	nonTquery	217	1402	230	2650
+PBRM1	Tquery	140	292	1	54
+PBRM1	nonTquery	6	79	14	278
+BAP1	Tquery	34	398	0	56
+BAP1	nonTquery	51	146	15	492
+SETD2	Tquery	45	388	1	53
+SETD2	nonTquery	23	263	35	821

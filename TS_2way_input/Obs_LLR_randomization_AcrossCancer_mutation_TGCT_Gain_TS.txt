@@ -1,0 +1,9 @@
+Gene	Tissue	Mut_Gain	NoMut_Gain	Mut_WT	NoMut_WT
+PIK3CA	Tquery	1	43	2	78
+PIK3CA	nonTquery	388	2022	542	3119
+KIT	Tquery	3	15	8	38
+KIT	nonTquery	6	52	7	389
+NRAS	Tquery	1	43	4	79
+NRAS	nonTquery	45	423	122	2227
+KRAS	Tquery	11	129	1	2
+KRAS	nonTquery	187	1140	308	3170

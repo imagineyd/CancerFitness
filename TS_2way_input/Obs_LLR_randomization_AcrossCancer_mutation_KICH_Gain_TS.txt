@@ -1,0 +1,5 @@
+Gene	Tissue	Mut_Gain	NoMut_Gain	Mut_WT	NoMut_WT
+PTEN	Tquery	0	2	0	15
+PTEN	nonTquery	61	300	235	3033
+TP53	Tquery	0	0	4	12
+TP53	nonTquery	280	231	993	3108

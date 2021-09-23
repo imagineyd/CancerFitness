@@ -1,0 +1,9 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+SF3B1	Tquery	0	0	18	53
+SF3B1	nonTquery	7	271	27	980
+EIF1AX	Tquery	0	12	10	48
+EIF1AX	nonTquery	0	3	7	471
+GNA11	Tquery	2	2	34	39
+GNA11	nonTquery	1	86	5	186
+BAP1	Tquery	13	31	0	36
+BAP1	nonTquery	72	513	15	512

@@ -1,0 +1,9 @@
+Gene	Tissue	Mut_Gain	NoMut_Gain	Mut_WT	NoMut_WT
+SF3B1	Tquery	0	8	18	53
+SF3B1	nonTquery	5	120	27	980
+EIF1AX	Tquery	0	10	10	48
+EIF1AX	nonTquery	0	9	7	471
+GNA11	Tquery	0	3	34	39
+GNA11	nonTquery	1	46	5	186
+BAP1	Tquery	0	0	0	36
+BAP1	nonTquery	1	121	15	512

@@ -1,0 +1,7 @@
+Gene	Tissue	Mut_Gain	NoMut_Gain	Mut_WT	NoMut_WT
+ATRX	Tquery	8	26	9	72
+ATRX	nonTquery	43	59	131	427
+TP53	Tquery	15	18	11	63
+TP53	nonTquery	265	213	986	3057
+RB1	Tquery	0	2	2	54
+RB1	nonTquery	21	443	77	2020

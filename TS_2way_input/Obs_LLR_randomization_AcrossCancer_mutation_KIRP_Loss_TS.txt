@@ -1,0 +1,17 @@
+Gene	Tissue	Mut_Loss	NoMut_Loss	Mut_WT	NoMut_WT
+PIK3CA	Tquery	0	5	3	172
+PIK3CA	nonTquery	34	374	541	3025
+MET	Tquery	0	2	7	93
+MET	nonTquery	2	45	7	185
+KDM6A	Tquery	0	31	5	147
+KDM6A	nonTquery	23	355	100	1201
+NF2	Tquery	8	50	1	210
+NF2	nonTquery	15	46	4	12
+CUL3	Tquery	3	4	5	216
+CUL3	nonTquery	9	280	19	549
+BAP1	Tquery	6	20	5	175
+BAP1	nonTquery	79	524	10	373
+SETD2	Tquery	4	21	12	171
+SETD2	nonTquery	64	630	24	703
+KRAS	Tquery	0	1	3	161
+KRAS	nonTquery	53	508	306	3011
